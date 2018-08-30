@@ -163,6 +163,8 @@ Developer Bootcamp, Makers Academy, London United Kingdom.
 
 - Learning Spanish.
 
+- Hanging with Animals.
+
 - Ethical Eating and Beauty.
 
 - Experiencing Experimental and Underground Music, Film and Art.
