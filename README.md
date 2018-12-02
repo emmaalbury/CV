@@ -6,8 +6,6 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 ## Skills
 
-#### This Skill
-
 ### Inituative
 - I rarely do things the conventional way. Instead I try to find paths that I am more likely to excel at and make decisions from a place of creativity, originality and innovation. This often requires diving into the deep-end, trusting my inituative and calling on my vast skill set. An example of this is when I worked for Imagine Education in 2007. Instead of hiring me for a specific role, they hired me to fullfill specific requirements. To meet these requirements I created the role of Tour Group/ Home Stay Coordinator and ESL (English as a Second Language) Teacher. It was a multifacteted job and I had to create my own schedules, curriculum, deadlines, methods and means of managing and liasoning with all bodies involved. It required a lot of juggling, swift decisions making and organisation. Not only did I fullfill all the requirements expected of me, but I also manage to please all bodies involved. 
 
