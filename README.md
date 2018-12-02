@@ -1,7 +1,5 @@
 ## Emma Albury
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 I am Full-Stack Junior Web Developer. I am obsessed with learning and exploration (see my extensive education and travel destinations). Considering the endless learning, possibilities, and challenges we must face as Developers, I feel it's a perfect occupation for me.
 
 I believe technology can be used as a powerful tool for the advancement of all. I feel pasionately about creating content that is more diverse and inclusive and more importantly, playing my part in clearing space, creating opportunities and a culture where minorities can become Developers themselves so that they can reap the benefits of such positions and create content that suits a more diverse range of wants and needs. The future is looking increasingly tech focused and I want play a part in making that future a beautiful one.
