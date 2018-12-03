@@ -37,14 +37,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Developer Bootcamp, Makers Academy, London United Kingdom.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### I'm not afraid of a challenge:
+I knew my idea for our final project at Makers was a lot to bite off. But I feel passionately about learning and creating things with a positive purpose, and I felt this was the perfect opportunity to do both. We had never built a mobile app before, nor used any of the languages and frameworks we were implementing (React Native, Expo, Jest and Enzyme). But through awesome team work and a lot of hard work and passion, we were able to teach ourselves and in two short weeks successfully created a mobile app that helps people with disabilities and other mobility concerns find the best routes to navigate around London https://github.com/emmaalbury/made-to-help.
 
+#### I can be relied upon to complete tasks independently:
+In one group project at Makers I was designated the task of setting up continuous deployment. I was able to configure a pipeline from our local servers, to our Github repo, through Travis CI, to deploy from Heroku. I had a lot of trouble debugging some authentication issues, but eventually set it up to be passing builds and successfully deploying. After I had set this up, I gave a mini tutorial to my other team mates who were interested in learning about it. With the assistance of this knowledge, they were then able to take it further when our coach, acting as a mock “client” requested a migration from Heroku to AWS. They did an excellent job of this and I believe I contributed by configuring the initial set up and teaching them the ropes with Heroku. I also made sure I was available to assist them and offer any answers they had throughout this process. Here is a repo of that project https://github.com/emmaalbury/Team-Tela
+
+#### I get a kick out of debugging:
+I actually quite enjoy the dissecting and excavational quality of debugging. I'm a curious person so I like trying to figure out what has gone wrong and why. Instead of fearing red, I consider error messages to be very handy hints (especially when using them as guidence in the TDD process). Here is an exercise exhibiting my debugging skills http://github.com/emmaalbury/Debugging. My usual methodology for debugging is detailed in exercise 4.
+
+#### I am comfortable programming using:
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React Native
+- RSpec, Jasmine, Jest, Enzyme
 
 #### University / College
 
