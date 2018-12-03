@@ -21,21 +21,7 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 ### Balanced
 - I dedicate myself to a work/play balance. By taking time out to do yoga, meditate, do some travel, spend some time in nature, go out dancing, see some inspiring art etc I can revitalise myself and immerse myself fully in the work task at hand with complete contentment. I'm very good at moderating and monitoring myself to reach this balance. As you can see by my work and education achievements, this balance leads to great productivity.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-
-#### Makers Academy (2018)
-
-Developer Bootcamp, Makers Academy, London United Kingdom.
+## Developer Specific Skills
 
 #### I'm not afraid of a challenge:
 I knew my idea for our final project at Makers was a lot to bite off. But I feel passionately about learning and creating things with a positive purpose, and I felt this was the perfect opportunity to do both. We had never built a mobile app before, nor used any of the languages and frameworks we were implementing (React Native, Expo, Jest and Enzyme). But through awesome team work and a lot of hard work and passion, we were able to teach ourselves and in two short weeks successfully created a mobile app that helps people with disabilities and other mobility concerns find the best routes to navigate around London https://github.com/emmaalbury/made-to-help.
@@ -50,7 +36,16 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React Native
-- RSpec, Jasmine, Jest, Enzyme
+- RSpec, Jasmine, Capybara, Jest, Enzyme
+- Travis CI
+- Heroku and have some experience with AWS
+
+## Education
+
+
+#### Makers Academy
+
+2018 - Developer Bootcamp, Makers Academy, London United Kingdom.
 
 #### University / College
 
@@ -62,7 +57,7 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 2002 - Completed Degree in Theatre Arts, USQ (University of Southern Queensland), Toowoomba Australia. Subjects Completed Include: Acting, Voice and Movement, Theatre Practice Analysis, History and Theory of Drama, Professional Development for Performance Art, Communcication and Scholarship, Australia Asia and the Pacific, Introductory Computing.
 
-#### Any other qualifications
+#### Other qualifications
 
 2018 - Completed Learn Ruby, Code Academy Online.
 
@@ -107,7 +102,7 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 2010/2011 - Casual Audio Visual Technician for Functions, The Arts Center Melbourne, Australia.
 
-2010/2011 - Audio Visual Local Crew for U2 “360 Tour” concert at Etihad Stadium, Blondie and the Pretenders concert at Palais Theatre, Big Day Out and Good Vibrations Festival at Flemington Race Course, Kylie, Roxy Music, Bon Jovi, The Gorillaz, and The Eagles at Rod Laver Arena, Hired Through Gig Power Melbourne Australia.
+2010/2011 - Audio Visual Local Crew for U2 “360 Tour” concert at Etihad Stadium, Blondie and the Pretenders concert at Palais Theatre, Big Day Out and Good Vibrations Festival at Flemington Race Course, Kylie Minogue, Roxy Music, Bon Jovi, The Gorillaz, and The Eagles at Rod Laver Arena, Hired Through Gig Power Melbourne Australia.
 
 2010 - Art Handler and Audio Visual Technician for “ABBA World” Exhibition (Dainty Consolidated Entertainment). Federation Square, Melbourne Australia.
 
@@ -130,7 +125,7 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 2017 - Assisted in International Donation Development, Russian LGBT Network.
 
-2013 - Conservator of the Aborigines Advancement League Inc Koori Mural, Melbourne Australia.
+2015 - Conservator of the Aborigines Advancement League Inc Koori Mural, Melbourne Australia.
 
 2015 - Organised Asylum Seeker Care Packages, Australia.
 
@@ -148,17 +143,19 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 - Attending Coding Meet-ups like Codebar and Code of Colour (Makers Academy).
 
-- Travelling To Experience Different Cultures and Spend Time Exploring Nature.
+- Travelling To Experience Different Cultures and Spending Time Exploring Nature.
 
 - Meditation and Yoga.
+
+- Visiting Museums and Galleries.
+
+- Experiencing Experimental and Underground Music, Film and Art.
+
+- Performing, Curating, Organising and Promoting Film, Performance and Art Exhibitions, Club Nights and Music Events Throughout Various Countries and Within a Variety of Different Venues and Exhibition Spaces. 
 
 - Learning Spanish.
 
 - Hanging with Animals.
 
 - Ethical Eating and Beauty.
-
-- Experiencing Experimental and Underground Music, Film and Art.
-
-- Performing, Curating, Organising and Promoting Film, Performance and Art Exhibitions, Club Nights and Music Events Throughout Various Countries and Within a Variety of Different Venues and Exhibition Spaces. 
  
