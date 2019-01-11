@@ -1,19 +1,19 @@
 ## Emma Albury
 
-I am Full-Stack Junior Web Developer. I am obsessed with learning and exploration (see my extensive education and travel destinations). Considering the endless learning, possibilities, and challenges we must face as Developers, I feel it's a perfect occupation for me.
+I am Full-Stack Junior Web Developer. I am obsessed with learning and exploration. Considering the endless learning, possibilities, and challenges we must face as Developers, I feel it's a perfect occupation for me.
 
 I believe technology can be used as a powerful tool for the advancement of all. I feel passionately about creating content that is more diverse and inclusive and more importantly, playing my part in clearing space, creating opportunities and a culture where minorities can become Developers themselves so that they can reap the benefits of such positions and create content that suits a more diverse range of wants and needs. The future is looking increasingly tech focused and I want play a part in making that future a beautiful one.
 
 ## Skills
 
 ### Integrity
-- I have strong ethics and morals and believe in acting of services to others or causes aside from self (as you can see below with my volunteer work). I try to always act from a place of compassion, kindness and respect. I have always had a very good relationship with my employers and colleagues as I try to always do what's best for the team and will always put in the effort to do the best job I can for you. Some positive feedback I have received from my Makers teammates has been: "Emma made sure that everyone had a say. She was also very supportive and ensured that we were doing well emotionally. I strongly believe that her positivity and insistence on constant communication allowed us to work well and effectively together.”, "You are such a support in general. I always feel I can talk to you if I'm having a problem of any kind. I also feel like you are really good at talking about your own problems, and talking through any issues with other people in a non-confrontational and respectful manner."
+- I have strong ethics and morals and believe in acting of services to others or causes aside from self. I try to always act from a place of compassion, kindness and respect. I have always had a very good relationship with my employers and colleagues as I try to always do what's best for the team and will always put in the effort to do the best job I can for you.
 
 ### Inquisitive
-- I study, travel, read and participate in experiences to constantly learn more about aspects of the world and myself. I don't ever want to stop learning. I am passionate about being a developer as it brings new challenges and teachings into my life every day. I find the ways in which my studies and experiences interweave, fascinating and highly beneficial. My previous degrees may not have lead to a career in those specific fields, yet none of them were a waste as aspects of those teachings influence and strengthen all other work I do. A Makers peer gave me the following feedback: "What I particularly appreciate about you is that I think that you are just open to learning with no ego or walls involved."
+- I study, travel, read and participate in experiences to constantly learn more about aspects of the world and myself. I don't ever want to stop learning. I am passionate about being a developer as it brings new challenges and teachings into my life every day. I find the ways in which my studies and experiences interweave, fascinating and highly beneficial. My previous degrees may not have lead to a career in those specific fields, yet none of them were a waste as aspects of those teachings influence and strengthen all other work I do.
 
 ### Logical
-- While I’m a big fan of being open-minded, adventurous and thinking outside the box, I’m also very logical. For example, I encouraged our final group project team at Makers to use props when passing data between files instead of using Redux https://github.com/emmaalbury/made-to-help. A teammate on that project gave me the following feedback: "Emma and I paired a lot during our final projects. For 2 days, we were stuck on how to move information from one file to another. We did some research separately to figure out the best way to do it. We found two ways to do it: the first one is through props and the second one is with Redux. After some research, Emma explained to me why using the props was a better option for our project. She believed that Redux was mostly used for bigger projects and as we were running out of time, learning a new technology was not the best idea. She shared with me the resources she found on how to use props in order to move data across different files. After that, we managed to do it successfully.  She was really good at making sure that I understood why she thought going with props was a better option in that case." Saying that, I’d like to learn more about and utilise Redux in the future.
+- While I’m a big fan of being open-minded, adventurous and thinking outside the box, I’m also very logical. For example, I encouraged our final group project team at Makers to use props when passing data between files instead of using Redux as through research I found a reoccurring opinion that Redux was mostly used for bigger projects and as we were working on a smaller project and were running out of time, learning a new technology was not the best idea.  https://github.com/emmaalbury/made-to-help. A teammate on that project gave me the following feedback: "Emma and I paired a lot during our final projects. For 2 days, we were stuck on how to move information from one file to another. We did some research separately to figure out the best way to do it. We found two ways to do it: the first one is through props and the second one is with Redux. After some research, Emma explained to me why using the props was a better option for our project. She believed that Redux was mostly used for bigger projects and as we were running out of time, learning a new technology was not the best idea. She shared with me the resources she found on how to use props in order to move data across different files. After that, we managed to do it successfully.  She was really good at making sure that I understood why she thought going with props was a better option in that case." Saying that, I’d like to learn more about and utilise Redux in the future.
 
 ### Initiative
 - I don’t stick to things just for conventions sake. Instead I am adaptable and try to make decisions best suited to each situation, delivering from a place of creativity, originality, and innovation. This often requires diving into the deep-end, trusting my initiative and calling on my vast skill set. An example of this is when I worked for Imagine Education in 2007. Instead of hiring me for a specific role, they hired me to fulfill specific requirements. To meet these requirements I created the role of Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher. It was a multifaceted job and I had to create my own schedules, curriculum, deadlines, methods and means of managing and liasoning with all bodies involved. It required a lot of juggling, swift decisions making and organisation. Not only did I fulfill all the requirements expected of me, but I also manage to please all bodies involved. 
@@ -52,13 +52,13 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 #### University / College
 
-2015 -  Completed Masters in Cultural Materials Conservation, Specializing in Objects and Textiles, University of Melbourne Australia. Subjects Completed Include: Conservation Professional Practices, Introduction to Materials and Techniques, Technical Examination and Documentation, Conservation Materials Chemistry, Intensive Chemistry, Respect, Preventive Conservation, Conservation Assessment and Treatment Units 1 and 2, Analytical Chemistry in Conservation, Audio Visual Preservation, Textiles Conservation Intensive, Minor Thesis, and a Conservation Internship.
+2015 -  Completed Masters in Cultural Materials Conservation, Specializing in Objects and Textiles, University of Melbourne Australia.
 
 2014 - Conservation Internship, MAGNT (Museum and Art Gallery of the Northern Territory), Darwin Australia.
 
-2010 - Completed Degree in Audio Production at SAE (School of Audio Engineering) Institute, Melbourne Australia. Subjects Completed Include: Principles of Sound and Sound Production, Introduction to Audio Technology, Communication and Computer Technologies, Introduction to Digital Media, Applied Music Theory, Signal Processing and Aural Perception, Web Technologies, Music Styles, MIDI and Electronic Music Production, Studio Production, Creative Project 1 and 2, Acoustics and Live Sound Production, The Role of the Producers, Research and Project Models, Audio Post Production, Advanced Audio Post Production, Advanced Studio Production, Business and Legal Studies, Mastering and Media Preparation, Marketing and Promotions.  
+2010 - Completed Degree in Audio Production at SAE (School of Audio Engineering) Institute, Melbourne Australia. 
 
-2002 - Completed Degree in Theatre Arts, USQ (University of Southern Queensland), Toowoomba Australia. Subjects Completed Include: Acting, Voice and Movement, Theatre Practice Analysis, History and Theory of Drama, Professional Development for Performance Art, Communication and Scholarship, Australia Asia and the Pacific, Introductory Computing.
+2002 - Completed Degree in Theatre Arts, USQ (University of Southern Queensland), Toowoomba Australia.
 
 #### Other qualifications
 
@@ -69,10 +69,6 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 2017 - Completed Introduction to Computer Science and Programming Using Python, Massachusetts Institute of Technology (Online Through edX).
 
 2016 - Completed Javascript, Python, HTML and CSS Courses, Code Academy Online.
-
-2012 - Completed Short Course in Millinery, CAE (College of Advanced Education) Melbourne Australia.
-
-2011 - Completed Elevating Work Platform Yellow Card Certificate Training, Melbourne Australia.
 
 2010 - Completed Certificate IV in Small Business, RMIT (Royal Melbourne Institute of Technology) Melbourne Australia. 
 
@@ -105,21 +101,15 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 2010/2011 - Casual Audio Visual Technician for Functions, The Arts Center Melbourne, Australia.
 
-2010/2011 - Audio Visual Local Crew for U2 “360 Tour” concert at Etihad Stadium, Blondie and the Pretenders concert at Palais Theatre, Big Day Out and Good Vibrations Festival at Flemington Race Course, Kylie Minogue, Roxy Music, Bon Jovi, The Gorillaz, and The Eagles at Rod Laver Arena, Hired Through Gig Power Melbourne Australia.
+2010/2011 - Audio Visual Local Crew for Stadium Concerts, Gig Power Melbourne Australia.
 
 2010 - Art Handler and Audio Visual Technician for “ABBA World” Exhibition (Dainty Consolidated Entertainment). Federation Square, Melbourne Australia.
-
-2010 -  Audio Restoration of “Chase” Video Art Piece by Liz Laser, New York United States of America.
 
 2008 - Part Time Children’s Drama and Dance teacher, Dramawerkz, Melbourne Australia.
 
 2007 - Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher, Imagine Education, Southport Australia.
 
 2006 - ESL (English as a Second Language) Kindergarten Teacher, Lichtenberger Sprachinstitut, Berlin Germany.
-
-2004-2006 - Sales Assistant/ Clothes Repair and Maintenance/ Storage/ and Stock take Duties, Revamp Costume Store, Brighton England.
-
-2004-2006 - Floor Supervisor, The Ocean Rooms Nightclub, Brighton England.
 
 2003 - ESL (English as a Second Language) Teacher, Osaka English House, Japan.
 
