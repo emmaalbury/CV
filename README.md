@@ -43,8 +43,8 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 - Travis CI
 - Heroku and have some experience with AWS
 
-## Education
 
+## Education
 
 #### Makers Academy
 
@@ -81,37 +81,23 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 2015 - Work Experience as a Conservator of Cultural Materials, LACMA (Los Angeles County Museum of Art), Department of Textile Conservation, United States of America.
 
-2011-2015 - Casual Art Handler (Packing, Storage and Transportation of Artwork/Artifacts, Installation and Deinstallation of Art and Museum Exhibitions), NGV (National Gallery of Victoria), Melbourne Australia.
-
-2011-2015 - Casual Art Handler and Exhibition Audio Visual Technician, Performing Arts Collection, Working on Behalf of Arts Centre Melbourne and POD Museum and Art Services.
+2011-2015 - Casual Art Handler (Packing, Storage and Transportation of Artwork/Artifacts, Installation and Deinstallation of Art and Museum Exhibitions) and Exhibition Audio Visual Technician, Performing Arts Collection, NGV (National Gallery of Victoria), and POD Museum and Art Services, Melbourne Australia.
 
 2014 (Short Contract): Conservator of Cultural Materials, RSL LifeCare ANZAC War Museum, Sydney Australia.
 
-2012 (Short Contract) - Assistant to Head Designer of the Performing Arts Collection, Arts Centre Melbourne.
-
-2012 (Short Contract) - Exhibition Mount Maker, Performing Arts Collection, Arts Centre Melbourne. 
+2012 (Short Contract) - Assistant to Head Designer and Exhibition Mount Maker, Performing Arts Collection, Arts Centre Melbourne.
 
 2011-2015 - Usher, Programme Seller, Access Concierge and Cloak Room Attendant at The Arts Centre Melbourne Australia.
 
 2010-2015 - Location Sound Recordist and Sound Editor for Film and Television, Australia.
 
-2008-2015 - Stall Owner/ Sales Assistant, Smith Street Bazaar - 20th Century Design Store, Melbourne Australia.
-
-2011/2012 - Casual Audio Visual Technician for Haycom Staging, Melbourne Australia. 
-
-2010/2011 - Casual Audio Visual Technician for Functions, The Arts Center Melbourne, Australia.
-
-2010/2011 - Audio Visual Local Crew for Stadium Concerts, Gig Power Melbourne Australia.
-
-2010 - Art Handler and Audio Visual Technician for “ABBA World” Exhibition (Dainty Consolidated Entertainment). Federation Square, Melbourne Australia.
+2010/2012 - Casual Audio Visual Technician for Haycom Staging, Melbourne Australia and The Arts Center Melbourne, Australia and Local Crew for Stadium Concerts, Gig Power Melbourne Australia.
 
 2008 - Part Time Children’s Drama and Dance teacher, Dramawerkz, Melbourne Australia.
 
 2007 - Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher, Imagine Education, Southport Australia.
 
-2006 - ESL (English as a Second Language) Kindergarten Teacher, Lichtenberger Sprachinstitut, Berlin Germany.
-
-2003 - ESL (English as a Second Language) Teacher, Osaka English House, Japan.
+2003/2006 - ESL (English as a Second Language) Kindergarten Teacher, Lichtenberger Sprachinstitut, Berlin Germany and Osaka English House, Japan.
 
 
 ### Volunteer Work
@@ -134,20 +120,4 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 ### Hobbies 
 
-- Attending Coding Meetups like Codebar and Code of Colour (Makers Academy).
-
-- Travelling To Experience Different Cultures and Spending Time Exploring Nature.
-
-- Meditation and Yoga.
-
-- Visiting Museums and Galleries.
-
-- Experiencing Experimental and Underground Music, Film and Art.
-
-- Performing, Curating, Organising and Promoting Film, Performance and Art Exhibitions, Club Nights and Music Events Throughout Various Countries and Within a Variety of Different Venues and Exhibition Spaces. 
-
-- Learning Spanish.
-
-- Hanging with Animals.
-
-- Ethical Eating and Beauty.
+- Attending Coding Meetups like Codebar and Code of Colour (Makers Academy), Travelling To Experience Different Cultures and Spending Time Exploring Nature, Meditation and Yoga, Visiting Museums and Galleries, Experimental and Underground Music, Film and Art. Performing, Curating, Organising and Promoting Film, Performance and Art Exhibitions. Club Nights and Music Events Throughout Various Countries and Within a Variety of Different Venues and Exhibition Spaces. Learning Spanish, Hanging with Animals, and Ethical Eating and Beauty.
