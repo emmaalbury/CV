@@ -1,6 +1,6 @@
 ## Emma Albury
 
-I am full stack junior web developer. I am obsessed with learning and exploration. Considering the endless learning, possibilities, and challenges we must face as developers, I feel it's a perfect occupation for me.
+I am full-stack junior web developer. I am obsessed with learning and exploration. Considering the endless learning, possibilities, and challenges we must face as developers, I feel it's a perfect occupation for me.
 
 I believe technology can be used as a powerful tool for the advancement of all. I feel passionately about creating content that is more diverse and inclusive and more importantly, playing my part in clearing space, creating opportunities and a culture where minorities can become developers themselves so that they can reap the benefits of such positions and create content that suits a more diverse range of wants and needs. The future is looking increasingly tech focused and I want play a part in making that future a beautiful one.
 
@@ -77,6 +77,8 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 ### Work Experience
 
+I have carved out a rich and varied professional history. Each industry gained me new skills 
+
 2016 - Work Experience as a Conservator of Cultural Materials, Museo Nacional de Antropología (National Museum of Anthropology), Department of Ethnography, Mexico City, Mexico.
 
 2015 - Work Experience as a Conservator of Cultural Materials, LACMA (Los Angeles County Museum of Art), Department of Textile Conservation, United States of America.
@@ -102,21 +104,7 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 ### Volunteer Work
 
-2017 - Assisted in International Donation Development, Russian LGBT Network.
-
-2015 - Conservator of the Aborigines Advancement League Inc Koori Mural, Melbourne Australia.
-
-2015 - Organised Asylum Seeker Care Packages, Australia.
-
-2014-2015 - Volunteer Cook and Food Server for Food Not Bombs (Providing Food for Those in Need), Melbourne Australia.
-
-2013 - Working Bee Volunteer at the Asylum Seeker Resource Centre, Melbourne Australia.
-
-2010 - Volunteer Secretary and ProTools Audio Software Tutor at Harvestworks Digital Media Arts Center, New York.
-
-2010 - Assistant Coordinator and Audio Visual Technician for NYCEMF (New York City Electro-Acoustic Music Festival).
-
-2010 - Sound Recordist/Engineer and Sound Editor, WFMU Radio Station, New York/ New Jersey.
+- Conservation for Indigenous cultural organisations, working bees for the Asylum Seekers Resource Center in Melbourne Australia, cook and food server for Food Not Bombs (providing food for those in need), and various audio visual projects and events.
 
 ### Hobbies 
 - Coding meetups, travelling, meditation and yoga, experimental and underground art, film and music, visiting galleries and museums, ethical eating and beauty, busting out moves on the dancefloor, hanging in nature and with animals.
