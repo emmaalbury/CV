@@ -2,7 +2,7 @@
 
 I am full-stack junior web developer. I am obsessed with learning and exploration. Considering the endless learning, possibilities, and challenges we must face as developers, I feel it's a perfect occupation for me.
 
-I believe technology can be used as a powerful tool for the advancement of all. I feel passionately about creating content that is more diverse and inclusive and more importantly, playing my part in clearing space, creating opportunities and a culture where minorities can become developers themselves so that they can reap the benefits of such positions and create content that suits a more diverse range of wants and needs. The future is looking increasingly tech focused and I want play a part in making that future a beautiful one.
+I believe technology can be used as a powerful tool for the advancement of all. I feel passionately about creating content that is more diverse and inclusive and more importantly, playing my part in clearing space, creating opportunities and encouraging a culture where minorities can become developers themselves. The future is looking increasingly tech focused and I want to play a part in making that future a beautiful one.
 
 ## Skills
 
@@ -77,30 +77,29 @@ I actually quite enjoy the dissecting and excavational quality of debugging. I'm
 
 ### Work Experience
 
-I have carved out a rich and varied professional history. Each industry gained me new skills 
+I have carved out a rich and varied professional history. Some selected roles: 
 
-2016 - Work Experience as a Conservator of Cultural Materials, Museo Nacional de Antropología (National Museum of Anthropology), Department of Ethnography, Mexico City, Mexico.
+2014-2016 : Work Experience as a Conservator of Cultural Materials, Museo Nacional de Antropología (National Museum of Anthropology), Mexico City, Mexico and LACMA (Los Angeles County Museum of Art), United States of America.
 
-2015 - Work Experience as a Conservator of Cultural Materials, LACMA (Los Angeles County Museum of Art), Department of Textile Conservation, United States of America.
+Transferrable skills: process, methodology, balance of technical and creative thinking and skills, problem solving, reporting and documenting work. 
 
-2011-2015 - Casual Art Handler (Packing, Storage and Transportation of Artwork/Artifacts, Installation and Deinstallation of Art and Museum Exhibitions) and Exhibition Audio Visual Technician, Performing Arts Collection, NGV (National Gallery of Victoria), and POD Museum and Art Services, Melbourne Australia.
+2011-2015 : Casual Art Handler (Packing, Storage and Transportation of Artwork/Artifacts, Installation and Deinstallation of Art and Museum Exhibitions), NGV (National Gallery of Victoria), Australian Performing Arts Collection, and POD Museum and Art Services, Melbourne Australia.
 
-2014 (Short Contract): Conservator of Cultural Materials, RSL LifeCare ANZAC War Museum, Sydney Australia.
+Transferrable skills: working to briefs, meeting strict deadlines, teamwork, consulting with clients, have inituative and being reliable and responsible.
 
-2012 (Short Contract) - Assistant to Head Designer and Exhibition Mount Maker, Performing Arts Collection, Arts Centre Melbourne.
+2010-2015 : Audio Visual Technician for Haycom Staging, and The Arts Center Melbourne, Local Crew for Stadium Concerts, Gig Power, and Location Sound Recordist and Sound Editor for Film and Television, Melbourne Australia.
 
-2011-2015 - Usher, Programme Seller, Access Concierge and Cloak Room Attendant at The Arts Centre Melbourne Australia.
+Transferrable skills: teamwork, flexibility, holding my own in a male dominated industry, striving in an often fast pased and pressure filled environment, technical thinking, following orders, sustaining motivation and positivity through long and grueling shifts.
 
-2010-2015 - Location Sound Recordist and Sound Editor for Film and Television, Australia.
+2008 : Part Time Children’s Drama and Dance teacher, Dramawerkz, Melbourne Australia.
 
-2010/2012 - Casual Audio Visual Technician for Haycom Staging, Melbourne Australia and The Arts Center Melbourne, Australia and Local Crew for Stadium Concerts, Gig Power Melbourne Australia.
+Transferrable skills: HAVE FUN!
 
-2008 - Part Time Children’s Drama and Dance teacher, Dramawerkz, Melbourne Australia.
+2003-2007 - Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher, Imagine Education, Southport Australia, Lichtenberger Sprachinstitut, Berlin Germany and Osaka English House, Japan.
 
-2007 - Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher, Imagine Education, Southport Australia.
+Transferrable skills: leadership, adaptability, teaching, writing plans and schedules, multitasking, managing and liasoning with multiple bodies, being organised and reliable.
 
-2003/2006 - ESL (English as a Second Language) Kindergarten Teacher, Lichtenberger Sprachinstitut, Berlin Germany and Osaka English House, Japan.
-
+I have also worked in customer service, hospitality and retail. These industries strengthened my people skills. 
 
 ### Volunteer Work
 
