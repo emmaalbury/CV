@@ -6,6 +6,8 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 ## Skills
 
+
+
 #### I am comfortable programming using:
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -24,8 +26,6 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 #### University / College
 
 2015 -  Completed Masters in Cultural Materials Conservation, Specializing in Objects and Textiles, University of Melbourne Australia.
-
-2014 - Conservation Internship, MAGNT (Museum and Art Gallery of the Northern Territory), Darwin Australia.
 
 2010 - Completed Degree in Audio Production at SAE (School of Audio Engineering) Institute, Melbourne Australia. 
 
