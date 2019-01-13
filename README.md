@@ -8,11 +8,12 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 #### I am comfortable programming using:
 - OOP, TDD, MVC, DDD
-- Agile Software Development
-- Ruby, Rails, JavaScript, Node.js, React Native
-- RSpec, Jasmine, Capybara, Jest, Enzyme
-- Travis CI
-- Heroku and have some experience with AWS
+- Agile Software Development and XP values
+- Languages: Ruby, JavaScript
+- Frameworks/libraries: Ruby on Rails, Node, React Native, Sinatra
+- Testing: RSpec, Capybara, Zombie, Jasmine, Jest, Enzyme, Detox
+- Databases: PostgreSQL, MongoDB
+- CI/CD: Travis CI, Heroku, some AWS
 
 
 | Name | Description | Technology | Skill |
