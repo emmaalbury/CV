@@ -17,9 +17,9 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 | Name | Description | Technology | Skill |
 | ------------- | ------------- | ------------- | ------------- |
-|https://github.com/emmaalbury/made-to-help  | A mobile app that helps find the best, and most accessible, routes for those who need help navigating the city.  | React Native, Expo, Jest, Enzyme, Detox | I recognise the fundamental recurring concepts between most languages and frameworks I encounter. Due to this I was able, with my group, to write a fairly complex program using a new language, React Native and all new testing frameworks within a short two weeks.  |
+| https://github.com/emmaalbury/made-to-help  | A mobile app that helps find the best, and most accessible, routes for those who need help navigating the city.  | React Native, Expo, Jest, Enzyme, Detox | I recognise the fundamental recurring concepts between most languages and frameworks I encounter. Due to this I was able, with my team, to write a fairly complex program using a new language, React Native and all new testing frameworks within a short two weeks.  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| https://github.com/emmaalbury/Kangaroo_MakersAirBnb (there are not many commits under my name as my computer broke during the project so we made commits under my partner's name, NadiaAiraf).  | A replica of AirBnB. Allows users to sign up, sign in, list and book accomodation.  | Node.js, Zombie, Jasmine, MongoDB  | One task I was asigned with during this project was setting up testing frameworks that were new to me. I suceeded in this. I received feedback from teamates who found me to be very supportive, positive and motivated, with strong compliance to agile software development. |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Education
