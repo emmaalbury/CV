@@ -8,7 +8,7 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 #### I am comfortable programming using:
 - OOP, TDD, MVC, DDD
-- Agile/XP
+- Agile Software Development
 - Ruby, Rails, JavaScript, Node.js, React Native
 - RSpec, Jasmine, Capybara, Jest, Enzyme
 - Travis CI
@@ -18,9 +18,9 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 | Name | Description | Technology | Skill |
 | ------------- | ------------- | ------------- | ------------- |
 | https://github.com/emmaalbury/made-to-help  | A mobile app that helps find the best, and most accessible, routes for those who need help navigating the city.  | React Native, Expo, Jest, Enzyme, Detox | I recognise the fundamental recurring concepts between most languages and frameworks I encounter. Due to this I was able, with my team, to write a fairly complex program using a new language, React Native and all new testing frameworks within a short two weeks.  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| https://github.com/emmaalbury/Team-Tela  | A social media platform allowing user to sign up, sign in, post, like and comment on user content.  | Rails, Devise, Travis CI, Heroku, AWS, Rubocop, Simplecov  | I was designated the task of setting up continuous deployment. I configured a pipeline from our local servers, to our Github repo and through Travis CI to deploy from Heroku. After I set this up, I gave a tutorial to my team mates. They were then able to migrate from Heroku to AWS as later requested by our "client" (I took over their role of writing CRUD methods so they could learn to deploy). They did an excellent job of this and I believe I contributed by configuring the initial set up and teaching them the ropes. I ensured I was available to assist them throughout this process. |
 | https://github.com/emmaalbury/Kangaroo_MakersAirBnb (there are not many commits under my name as my computer broke during the project so we made commits under my partner's name, NadiaAiraf).  | A replica of AirBnB. Allows users to sign up, sign in, list and book accomodation.  | Node.js, Zombie, Jasmine, MongoDB  | One task I was asigned with during this project was setting up testing frameworks that were new to me. I suceeded in this. I received feedback from teamates who found me to be very supportive, positive and motivated, with strong compliance to agile software development. |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| https://github.com/emmaalbury/Anagrams | Content Cell  | Content Cell  | Content Cell  |
 
 ## Education
 
@@ -60,7 +60,7 @@ I have carved out a rich and varied professional history, over the course of whi
   
   -  working to briefs and meeting strict deadlines in teams or with destignated solo tasks, in roles like art handler for galleries and museums such as the National Gallery of Victoria.
   
-- how to work well in teams, thrive in male dominated industries and sustain motivation and positivity through long and challenging shifts as a freelance audio visual technician for companies such as Gig Power, Australia.
+- flexibility, how to work well in teams, thrive in male dominated industries and sustain motivation and positivity through long and challenging shifts as a freelance audio visual technician for companies such as Gig Power, Australia.
 
 - teaching and leadership skills, constructing and adhereing to plans and schedules, managing and liasoning with multiple bodies as a tour group/ homestay coordinator and English teacher in various schools such as Osaka English House, Japan.
 
