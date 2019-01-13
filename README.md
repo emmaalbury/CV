@@ -11,7 +11,7 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 #### I am comfortable programming using:
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React Native
+- Ruby, Rails, JavaScript, Node.js, React Native
 - RSpec, Jasmine, Capybara, Jest, Enzyme
 - Travis CI
 - Heroku and have some experience with AWS
@@ -48,29 +48,19 @@ I believe technology can be used as a powerful tool for the advancement of all. 
 
 ### Work Experience
 
-I have carved out a rich and varied professional history. Some selected roles: 
 
-2014-2016 : Work Experience as a Conservator of Cultural Materials, Museo Nacional de Antropología (National Museum of Anthropology), Mexico City, Mexico and LACMA (Los Angeles County Museum of Art), United States of America.
+I have carved out a rich and varied professional history, over the course of which I have acquired skills such as:
 
-Transferrable skills: process, methodology, balance of technical and creative thinking and skills, problem solving, reporting and documenting work. 
+  - applying precise technical methodology and creative problem solving, and the importance of documenting work, in roles like conservator of cultural materials for museums such as Mexico's National Museum of Anthropology.
+  
+  -  working to briefs and meeting strict deadlines in teams or with destignated solo tasks, in roles like art handler for galleries and museums such as the National Gallery of Victoria.
+  
+- how to work well in teams, thrive in male dominated industries and sustain motivation and positivity through long and challenging shifts as a freelance audio visual technician for companies such as Gig Power, Australia.
 
-2011-2015 : Casual Art Handler (Packing, Storage and Transportation of Artwork/Artifacts, Installation and Deinstallation of Art and Museum Exhibitions), NGV (National Gallery of Victoria), Australian Performing Arts Collection, and POD Museum and Art Services, Melbourne Australia.
+= teaching and leadership skills, constructing and adhereing to plans and schedules, managing and liasoning with multiple bodies as a tour group/ homestay coordinator and English teacher in various schools such as Osaka English House, Japan.
 
-Transferrable skills: working to briefs, meeting strict deadlines, teamwork, consulting with clients, have inituative and being reliable and responsible.
+I have also worked in customer service, hospitality, retail and as a drama teacher for kids. These industries strengthened my people skills and taught me how to make work fun!
 
-2010-2015 : Audio Visual Technician for Haycom Staging, and The Arts Center Melbourne, Local Crew for Stadium Concerts, Gig Power, and Location Sound Recordist and Sound Editor for Film and Television, Melbourne Australia.
-
-Transferrable skills: teamwork, flexibility, holding my own in a male dominated industry, striving in an often fast pased and pressure filled environment, technical thinking, following orders, sustaining motivation and positivity through long and grueling shifts.
-
-2008 : Part Time Children’s Drama and Dance teacher, Dramawerkz, Melbourne Australia.
-
-Transferrable skills: HAVE FUN!
-
-2003-2007 - Tour Group/ Homestay Coordinator and ESL (English as a Second Language) Teacher, Imagine Education, Southport Australia, Lichtenberger Sprachinstitut, Berlin Germany and Osaka English House, Japan.
-
-Transferrable skills: leadership, adaptability, teaching, writing plans and schedules, multitasking, managing and liasoning with multiple bodies, being organised and reliable.
-
-I have also worked in customer service, hospitality and retail. These industries strengthened my people skills. 
 
 ### Volunteer Work
 
