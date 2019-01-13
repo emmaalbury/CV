@@ -57,7 +57,7 @@ I have carved out a rich and varied professional history, over the course of whi
   
 - how to work well in teams, thrive in male dominated industries and sustain motivation and positivity through long and challenging shifts as a freelance audio visual technician for companies such as Gig Power, Australia.
 
-= teaching and leadership skills, constructing and adhereing to plans and schedules, managing and liasoning with multiple bodies as a tour group/ homestay coordinator and English teacher in various schools such as Osaka English House, Japan.
+- teaching and leadership skills, constructing and adhereing to plans and schedules, managing and liasoning with multiple bodies as a tour group/ homestay coordinator and English teacher in various schools such as Osaka English House, Japan.
 
 I have also worked in customer service, hospitality, retail and as a drama teacher for kids. These industries strengthened my people skills and taught me how to make work fun!
 
