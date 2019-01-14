@@ -1,10 +1,13 @@
-## Emma Albury
+|  [Skills](#skills)  |  [Work Experience](#work_experience)  |  [Education](#education)  |  [Volunteer Work](#volunteer_work) | [Hobbies](#hobbies)  |
+
+
+# Emma Albury
 
 I have been driven to become a full-stack junior web developer by my obsession with learning and exploration. In light of the endlessly evolving possibilities and challenges we encounter as developers, I feel it's a perfect occupation for me.
 
 I believe technology can be harnessed for the advancement of all. I feel passionately about creating content that is more diverse and inclusive, playing my part in clearing space, creating opportunities and encouraging a culture where minorities can take their place in the new future our technologies are forging.
 
-## Skills
+##  <a name="skills">**Skills**</a>
 
 #### I am proficient with:
 - OOP, TDD, MVC
@@ -24,7 +27,7 @@ I believe technology can be harnessed for the advancement of all. I feel passion
 | [Bank Tech Test](https://github.com/emmaalbury/bank_tech_test) | A REPL bank program enabling users to make financial deposits and withdrawals, see their balance and print a statement.  |  Ruby, RSpec, Simplecov, Rubocop | I developed this program adhering strictly to TDD, and refactored the code to make it as clean and simple to build and use as possible. I utilise TDD in my process as it enables me to break problems down into small steps, and guides my workflow. |
 
 
-### Work Experience
+## <a name="work_experience">**Work Experience**</a>
 
 I have carved out a rich and varied professional history, over the course of which I have acquired skills such as:
 
@@ -39,7 +42,7 @@ I have carved out a rich and varied professional history, over the course of whi
 I have also worked in customer service, hospitality and retail and as a drama teacher. These industries strengthened my people skills and taught me how to make work fun.
 
 
-## Education
+## <a name="education">**Education**</a>
 
 #### Makers Academy
 
@@ -68,10 +71,10 @@ I have also worked in customer service, hospitality and retail and as a drama te
 2006 - TEFL (Teaching English as a Foreign Language) Teaching Certificate, Brighton, England.
 
 
-### Volunteer Work
+## <a name="volunteer_work">**Volunteer Work**</a>
 
 - Conservation for indigenous cultural organisations, support work for the Asylum Seekers Resource Center in Melbourne Australia, cook and food server for Food Not Bombs (providing food for those in need), and various audiovisual projects and events.
 
 
-### Hobbies 
+## <a name="hobbies">**Hobbies**</a> 
 - Coding meetups, travelling, meditation and yoga, experimental and underground art, film and music, visiting galleries and museums, ethical eating and beauty, busting out moves on the dancefloor, hanging in nature and with animals.
