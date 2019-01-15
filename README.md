@@ -9,7 +9,7 @@ I believe technology can be harnessed for the advancement of all. I feel passion
 
 ##  <a name="skills">**Skills**</a>
 
-#### I am proficient with:
+#### I have experience using:
 - OOP, TDD, MVC
 - Agile Software Development and XP values
 - Languages: Ruby, JavaScript
