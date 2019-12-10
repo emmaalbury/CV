@@ -12,16 +12,19 @@ I believe technology can be harnessed for the advancement of all. I feel passion
 #### I have experience using:
 - OOP, TDD, MVC
 - Agile Software Development and XP values
-- Languages: Ruby, JavaScript
-- Frameworks: Ruby on Rails, Node, React Native, Sinatra
-- Testing: RSpec, Capybara, Zombie, Jasmine, Expo, Jest, Enzyme, Detox
-- Databases: PostgreSQL, MongoDB
+- Languages: Ruby, JavaScript, Swift, Java
+- Frameworks: Ruby on Rails, Node, React Native, Sinatra, Spring Framework
+- Testing: RSpec, Capybara, Zombie, Jasmine, Expo, Jest, Enzyme, Detox, JUnit
+- Databases: PostgreSQL, MongoDB, ElasticSearch
 - CI/CD: Travis CI, Heroku, some AWS
 
 
 
 | Name | Description | Technology | Skill |
 | ------------- | ------------- | ------------- | ------------- |
+| Deloitte Digital Project Bid Tool | A central repository for collating bid data  | Java, ElasticSearch, JUnit, Spring Framework, Jira | I decided I wanted to build up more backend skills as a developer so I switched teams to an internal project focusing on backend and databases. I was able to apply my previous skills as a developer to make a smooth transition. |
+| Deloitte Digital Internal News Mobile App | An internal news collation and subscription service. | Swift, XCode, SourceTree, HockeyApp | I worked on this internal company project in a team of two mobile developers for around 4 months. We inherited some very challenging legacy code. The experience elevated my learning as an iOS developer rapidly. |
+| Educational Mobile App | An educational game app for iPads. Client project for a charity, hired through Deloitte Digital.  | Swift, XCode, SourceTree, HockeyApp | This was the first professional app I built and my first time writing in Swift. It was built from scratch within 6 weeks with a team of two (a senior mobile developer and I). We met all MVP's set to deadlines and the client was extremely happy with the final project. |
 | [MADE to Help](https://github.com/emmaalbury/made-to-help) | An accessibility navigation mobile app  | React Native, Expo, Jest, Enzyme, Detox | Together with my team, I drew on my familiarity with the concepts and structures that underlie most frameworks to build a complex program using tools unknown to us all – React Native and new testing frameworks – within two weeks.  |
 | [Tela](https://github.com/emmaalbury/Team-Tela) | Facebook replica  | Rails, Devise, Travis CI, Heroku, AWS, Rubocop, Simplecov  | I was designated the task of setting up continuous deployment. I configured a pipeline from our local servers to our Github repo and through Travis CI to deploy from Heroku. After I set this up, I gave a tutorial to my teammates. They were then able to migrate from Heroku to AWS as later requested by our "client"; while they learned the deployment process, I took over their role of writing CRUD methods so they could learn the deployment process and provided support where necessary. |
 | [Kangaroo Makers AirBnB](https://github.com/emmaalbury/Kangaroo_MakersAirBnb) | AirBnB replica  | Node.js, Zombie, Jasmine, MongoDB  | Among other tasks, I set up the testing frameworks for this project. I received feedback from teammates that I was supportive, positive and motivated, with strong compliance to agile software development. Note: due to a computer failure, most of my commits are under my partner's name, NadiaAiraf.|
@@ -29,6 +32,12 @@ I believe technology can be harnessed for the advancement of all. I feel passion
 
 
 ## <a name="work_experience">**Work Experience**</a>
+
+#### Current position:
+2019 - Deloitte Digital, Junior Backend Developer.
+
+#### Previous position:
+2019 - Deloitte Digital, iOS Front-end Developer. 
 
 I have carved out a rich and varied professional history, over the course of which I have acquired skills such as:
 
